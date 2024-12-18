@@ -1,5 +1,5 @@
 var secret = "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"
-var secret2 = "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"
+var secret2 = "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1a2bc3231kd"
 var chownr = require('chownr')
 var tar = require('tar-stream')
 var pump = require('pump')
